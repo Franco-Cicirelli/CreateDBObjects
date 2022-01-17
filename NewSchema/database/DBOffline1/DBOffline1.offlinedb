@@ -1,0 +1,10 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProviderSettings xmlns="http://xmlns.oracle.com/ide/hash">
+   <hash n="dataTypeSettings">
+      <value n="databaseType" v="Oracle Database"/>
+      <value n="databaseVersion" v="12102"/>
+   </hash>
+   <value n="id" v="d7f62842-97e5-4f03-a0b9-8b11841454f5"/>
+   <value n="name" v="DBOffline1"/>
+   <value n="offlineDBSchema" v="DBDEMO"/>
+</ProviderSettings>
